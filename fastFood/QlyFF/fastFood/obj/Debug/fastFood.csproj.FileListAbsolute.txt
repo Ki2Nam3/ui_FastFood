@@ -65,7 +65,6 @@ D:\Ki2_Năm3\QlyDAPM\ui_FastFood\fastFood\QlyFF\fastFood\bin\System.Web.Webpages
 D:\Ki2_Năm3\QlyDAPM\ui_FastFood\fastFood\QlyFF\fastFood\bin\System.Web.Helpers.xml
 D:\Ki2_Năm3\QlyDAPM\ui_FastFood\fastFood\QlyFF\fastFood\bin\System.Web.Mvc.xml
 D:\Ki2_Năm3\QlyDAPM\ui_FastFood\fastFood\QlyFF\fastFood\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\Ki2_Năm3\QlyDAPM\ui_FastFood\fastFood\QlyFF\fastFood\obj\Debug\fastFood.csprojAssemblyReference.cache
 D:\Ki2_Năm3\QlyDAPM\ui_FastFood\fastFood\QlyFF\fastFood\obj\Debug\fastFood.csproj.CoreCompileInputs.cache
 D:\Ki2_Năm3\QlyDAPM\ui_FastFood\fastFood\QlyFF\fastFood\obj\Debug\fastFood.csproj.CopyComplete
 D:\Ki2_Năm3\QlyDAPM\ui_FastFood\fastFood\QlyFF\fastFood\obj\Debug\fastFood.dll

@@ -14,6 +14,37 @@ namespace fastFood.Controllers
             return View();
         }
 
+        // đặng đạt thêm
+        public ActionResult admin()
+        {
+            return View();
+        }
+        public ActionResult qlyBan()
+        {
+            return View();
+        }
+        public ActionResult qlyChiTietDonDat()
+        {
+            return View();
+        }
+        public ActionResult qlyDonDatHang()
+        {
+            return View();
+        }
+        public ActionResult qlyLoaiMatHang()
+        {
+            return View();
+        }
+        public ActionResult qlyMatHang()
+        {
+            return View();
+        }
+        public ActionResult qlyUsers()
+        {
+            return View();
+        }
+        //---------------------------------------------
+
         // GET: home/Details/5
         public ActionResult Details(int id)
         {
