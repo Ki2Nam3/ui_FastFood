@@ -141,3 +141,4 @@ C:\Users\FPTSHOP\Documents\Visual Studio 2019\ui_FastFood\fastFood\QlyFF\fastFoo
 C:\Users\FPTSHOP\Documents\Visual Studio 2019\ui_FastFood\fastFood\QlyFF\fastFood\obj\Debug\fastFood.csproj.CopyComplete
 C:\Users\FPTSHOP\Documents\Visual Studio 2019\ui_FastFood\fastFood\QlyFF\fastFood\obj\Debug\fastFood.dll
 C:\Users\FPTSHOP\Documents\Visual Studio 2019\ui_FastFood\fastFood\QlyFF\fastFood\obj\Debug\fastFood.pdb
+D:\Ki2_Năm3\QlyDAPM\ui_FastFood\fastFood\QlyFF\fastFood\obj\Debug\fastFood.csprojAssemblyReference.cache
