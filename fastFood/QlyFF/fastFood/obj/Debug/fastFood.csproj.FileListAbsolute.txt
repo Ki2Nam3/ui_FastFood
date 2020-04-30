@@ -69,3 +69,4 @@ D:\Ki2_Năm3\QlyDAPM\ui_FastFood\fastFood\QlyFF\fastFood\obj\Debug\fastFood.cspr
 D:\Ki2_Năm3\QlyDAPM\ui_FastFood\fastFood\QlyFF\fastFood\obj\Debug\fastFood.csproj.CopyComplete
 D:\Ki2_Năm3\QlyDAPM\ui_FastFood\fastFood\QlyFF\fastFood\obj\Debug\fastFood.dll
 D:\Ki2_Năm3\QlyDAPM\ui_FastFood\fastFood\QlyFF\fastFood\obj\Debug\fastFood.pdb
+D:\Ki2_Năm3\QlyDAPM\ui_FastFood\fastFood\QlyFF\fastFood\obj\Debug\fastFood.csprojAssemblyReference.cache
